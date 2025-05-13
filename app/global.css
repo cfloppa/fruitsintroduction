@@ -53,3 +53,11 @@ ul {
     padding-left: 0px;
   }
   
+  .center {
+    margin: auto;
+    width: 25%;
+  }
+
+  iframe {
+    border: 0
+  }
