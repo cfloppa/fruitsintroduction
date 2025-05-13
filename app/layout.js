@@ -13,6 +13,7 @@
                         <li><img src="/icon.png"></img></li>
                         <li><a href="/">Home</a></li>
                         <li><a href="/about">About</a></li>
+                        <li><a href="/form">Form</a></li>
                     </ul>
                 </nav>
                 {children}
